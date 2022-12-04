@@ -7,7 +7,7 @@ Here:
 # Usage
 
 ### Search Resolution
-How many points is analyzed for each seed. The larger this value is, the more precise your search results will be. So if you want to search for a very small area, you'll likely want to increase the resolution. But the higher the resolution is, the slower the it will search.
+How many points is analyzed for each seed. The larger this value is, the more precise your search results will be. So if you want to search for a very small area, you'll likely want to increase the resolution. But the higher the resolution is, the slower it will be.
 
 ### CPU Usage
 You can drag this all the way down to 0, to pause scanning.
