@@ -1,0 +1,8 @@
+﻿Src/Library
+Src/UserSettings
+Src/Temp
+Src/Logs
+Src/Build
+Src/.vsconfig
+*.sln
+*.csproj
