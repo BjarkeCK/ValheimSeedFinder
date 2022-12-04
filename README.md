@@ -35,3 +35,5 @@ The colors below each results represents the weights of each biom in that area. 
 * Maybe one day I'll move this out of Unity, into a normal C# project with SDL + Dear ImGUI or something. I don't want to do UI in Unity.
 * Look into filtering by assets that must be present, such as make sure there is a Maypole, or minimum x number of Copper diposits.
 
+# Contribute
+* Yes please! I've used Unity version 2021, but it should be compatible with pretty much any version of Unity out there. It's a single script file, you can also  just grab it and drag it into your own project and attach the ValheimSeedFinder component to a gameobject and hit play.
