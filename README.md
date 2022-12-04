@@ -1,8 +1,11 @@
 # ValheimSeedFinder
 This tool scans hundreds of seeds every second for the perfect spot according to your preferences.
 
+![ValheimSeedFinder](https://github.com/BjarkeCK/ValheimSeedFinder/blob/main/Src/Images/ValheimSeedFinder.gif?raw=true)
+
 # Download
-Here:
+For Windows: [https://github.com/BjarkeCK/ValheimSeedFinder/releases](https://github.com/BjarkeCK/ValheimSeedFinder/releases)
+
 
 # Usage
 
