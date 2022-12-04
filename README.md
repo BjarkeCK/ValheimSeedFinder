@@ -15,7 +15,7 @@ How many points is analyzed for each seed. The larger this value is, the more pr
 You can drag this all the way down to 0, to pause scanning.
 
 ### Size / Inv zoom
-The size of the area win world units you're searching for. (A world map is 20.000 x 20.000 units)
+The size of the area in (world units) you're searching for. The valheim world map is 20.000 x 20.000 units
 
 ### Center Biome
 The algorithm works by isolating all contours / blobs of your "center biome", it then analyzes a rectangle around each center at the size you've specified, and calculates the biome weights.
