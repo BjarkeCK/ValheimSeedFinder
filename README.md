@@ -23,13 +23,13 @@ The algorithm works by isolating all contours / blobs of your "center biome", it
 ### Weights
 **Left toggle:** Toggle on a specific biome you want included, and adjust the weight.
 
-**Right toggle:** By enabling the right toggle, you tell the algorithm only to analyze contours / biom blobs if the biom has the specified biom as a direct neighbour.
+**Right toggle:** By enabling the right toggle, you tell the algorithm only to analyze contours / biome blobs if the biome has the specified biome as a direct neighbour.
 
 ### Normalize
 If you don't want "unkown" bioms, then idealy all weights have to sum up to one. The normalize button will do that for you.
 
 ### The Results
-The colors below each results represents the weights of each biom in that area. You can click on each results to open up the area in valheim-map.world
+The colors below each results represents the weights of each biome in that area. You can click on each results to open up the area in valheim-map.world
 
 # Roadmap
 * Improve water levels.
